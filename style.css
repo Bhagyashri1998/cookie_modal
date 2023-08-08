@@ -1,0 +1,39 @@
+body{
+    
+    background-color: rgb(237, 244, 248);
+}
+#btn_clickme{
+    padding: 25px;
+    border: 5px;
+    background-color: gray;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#btn_closeme{
+  float: right;
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer;
+  border: none;
+}
+.cookieData{
+    max-width: 250px;
+    margin:auto;
+    font-size: 20px;
+    border-top-left-radius: 30px;
+    background-color: #fff;
+    display:none;
+}
+#content{
+    text-align: center;
+    padding: 115px 20px 45px;
+    font-size: 18px;
+    font-weight: 500;
+}
+#content .learnMore{
+    font-size: 15px;
+    font-weight: 600;
+}
